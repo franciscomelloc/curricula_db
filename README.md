@@ -1,6 +1,6 @@
 # Novo Ensino Médio VSM
 
-Aqui você encontra um modelo vetorial pré-treinado nos dados de 19 currículos de Ensino Médio no Brasil, um Corpus de 15.000 páginas. Também disponibilizei a base de dados com currículos de Ensino Médio de 19 estados brasileiros em PDF e .txt. 
+Aqui você encontra um modelo vetorial pré-treinado nos dados de 19 currículos de Ensino Médio no Brasil, um Corpus de 15.000 páginas. Também disponibilizei a base de dados com currículos de Ensino Médio de 19 estados brasileiros em PDF e .txt. O seu principal uso é para sumarização e acesso ao conteúdo dos currículos, mas pode ser usado em outras tarefas.
 
 Ao utilizar o modelo, favor realizar a citação: 
 
