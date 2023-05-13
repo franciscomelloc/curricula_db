@@ -7,7 +7,7 @@ Este modelo utiliza a TOP2VEC por Angelov. Artigo original: https://github.com/d
 `$ pip install top2vec`
 
 
-####Implementação　
+### Implementação　
 Load the model. 
 ```Python
 model = Top2Vec.load("curricula_pretrained")
