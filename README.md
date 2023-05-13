@@ -6,6 +6,7 @@ Ao utilizar o modelo, favor realizar a citação:
 
 APA (7th edition) Style: 
 > Mello Castro, F. (2023). Brazilian High School Curricula Database. Zenodo. https://doi.org/10.5281/zenodo.7932965
+
 ABNT Style: 
 > MELLO CASTRO, F. Brazilian High School Curricula Database. 2023. Disponível em: https://doi.org/10.5281/zenodo.7932965. Acesso em: [Insert date of access here in format: day month. year]
 
